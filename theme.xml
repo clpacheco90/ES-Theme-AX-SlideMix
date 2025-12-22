@@ -22,6 +22,9 @@ We do this for free, dont forget to say thanks!
     <include name="red" displayName="red">./settings/colors/red.xml</include>
     <include name="orange" displayName="orange">./settings/colors/orange.xml</include>
     <include name="green" displayName="green">./settings/colors/green.xml</include>
+    <include name="snes" displayName="snes">./settings/colors/snes.xml</include>
+    <include name="gameboycolor" displayName="gameboycolor">./settings/colors/gb.xml</include>
+    <include name="gameboyadvance" displayName="gameboyadvance">./settings/colors/gba.xml</include>
 
   </subset>
 
