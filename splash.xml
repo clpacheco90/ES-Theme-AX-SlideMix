@@ -3,10 +3,10 @@
 <formatVersion>7</formatVersion>
 	<view name="splash">
 		<splash name="splash">
-			<backgroundColor>121212</backgroundColor>
+			<backgroundColor>231942</backgroundColor>
 		</splash>
 		<image name="background">
-			<linearSmooth>true</linearSmooth>
+			<linearSmooth>false</linearSmooth>
 			<path>./assets/splash.png</path>
 			<maxSize>1 1</maxSize>
 			<pos>0.5 0.5</pos>
@@ -15,16 +15,15 @@
 		<image name="background" tinyScreen="true">
 			<path>./assets/splash.png</path>
 		</image>		
-		
-                <image name="progressbar">
-         <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
-         <color>222222</color>
-         <colorEnd>222222</colorEnd>
+		<image name="progressbar">
+         <origin>0.5 0.8</origin>
+         <pos>0.5 0.8</pos>
+         <color>231942</color>
+         <colorEnd>231942</colorEnd>
       </image>
       <image name="progressbar:active">
-         <color>333333</color>
-         <colorEnd>333333</colorEnd>
+         <color>a293d5</color>
+         <colorEnd>a293d5</colorEnd>
       </image>
       <text name="label">
          <origin>0.5 0.5</origin>
